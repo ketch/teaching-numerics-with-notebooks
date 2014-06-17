@@ -5,7 +5,7 @@
 Instructors: David Ketcheson and Aron Ahmadia  
 Monday, July 7 1-5 p.m.
 
-https://conference.scipy.org/scipy2014/schedule/presentation/89/
+https://conference.scipy.org/scipy2014/schedule/presentation/536/
 
 ## Outline
 
