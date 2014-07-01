@@ -15,21 +15,37 @@ https://conference.scipy.org/scipy2014/schedule/presentation/89/
 - Getting started
   - Sage Math Cloud
   - The IPython notebook (basics)
+    - If most attendees are familiar, skip this
+    - mention that students should type all the code
   - Using SMC collaboratively
-  - Distributing notebooks on SMC
+  - Distributing notebooks
+    - nbviewer
+    - SMC
   - Methods for collecting notebooks
+    - Add instructor as collaborator
+    - E-mail
+    - nbviewer
+    - in-class presentation
 - Using the notebook
   - Visuals
     - Images
+      - best to use Markdown
     - Plotting
-    - Interactive plots
+      - matplotlib
+      - plotly for interactive plots
+      - others? (Bokeh)
     - Animations and widgets
+      - JSAnimation
+      - IPython widgets
   - nbconvert
     - presentations
     - handouts
-  - nbviewer
-- Examples of teaching notebooks
-  - A homework assignment or in-class activity
-  - A single, self-contained lesson or laboratory session (multigrid or fast sweeping)
-  - An entire course (HyperPython, AeroPython, or 12 steps)
-- Time for participants to design their own notebook
+  - Styling modifications
+    - outline running cells
+    - group code and output
+- Examples of notebooks for teaching
+  - A single short concept (Aliasing)
+  - A homework exercise or in-class activity (finite differences)
+  - A lesson or laboratory session (multigrid)
+  - A short course: HyperPython
+- Time for participants to design their own notebooks (and share them?)
