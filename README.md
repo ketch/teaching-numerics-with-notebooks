@@ -1,6 +1,6 @@
 # Teaching numerical methods with IPython notebooks
 
-#### A tutorial prepared for Scipy 2014
+#### A tutorial prepared for SciPy 2014
 
 Instructors: David Ketcheson and Aron Ahmadia  
 Monday, July 7 1-5 p.m.
@@ -14,7 +14,7 @@ https://conference.scipy.org/scipy2014/schedule/presentation/536/
   - Numerical methods as a craft
 - Getting started
   - Sage Math Cloud
-  - The IPython notebook (basics)
+  - The IPython Notebook (basics)
     - If most attendees are familiar, skip this
     - mention that students should type all the code
   - Using SMC collaboratively
