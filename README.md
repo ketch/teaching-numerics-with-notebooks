@@ -49,3 +49,10 @@ https://conference.scipy.org/scipy2014/schedule/presentation/536/
   - A lesson or laboratory session (multigrid)
   - A short course: HyperPython
 - Time for participants to design their own notebooks (and share them?)
+
+
+## Notebooks
+
+* [Aliasing](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Aliasing.ipynb)
+* [Multigrid](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Multigrid.ipynb)
+* [Finite Difference Lab](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/finite_difference_lab.ipynb)
