@@ -1,0 +1,100 @@
+<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,100italic,300italic,400italic,500italic,700italic,800italic,900italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+<style>
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
+
+
+div #body { /* centre the content */
+    background: #fff;
+    color: #333;
+    width: 1000px;
+    margin: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 2ex;
+    overflow-x: auto;
+}
+
+div #body li { /* More space between bullet points */
+margin-top:0.8em;
+}
+
+
+div body {
+    font-family: 'Arvo' sans-serif;
+    line-height: 130%;
+    font-size: 115%;
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+/* Formatting for header cells */
+h1 {
+    font-family: 'Philosopher', sans-serif;
+    font-weight: 400;
+    font-size: 64pt;
+    line-height: 100%;
+    color: rgb(12,85,97);
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+}	
+h2 {
+    font-family: 'Philosopher', serif;
+    font-weight: 700;
+    font-size: 24pt;
+    line-height: 100%;
+    color: rgb(171,165,131);
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+}	
+
+h3 {
+    font-family: 'Philosopher', serif;
+    margin-top:12px;
+    margin-bottom: 3px;
+    font-style: italic;
+    color: rgb(95,92,72);
+}
+
+h4 {
+    font-family: 'Philosopher', serif;
+}
+
+h5 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16pt;
+    color: grey;
+    font-style: italic;
+    margin-bottom: .1em;
+    margin-top: 0.1em;
+    display: block;
+}
+
+h6 {
+    font-family: 'PT Mono', sans-serif;
+    font-weight: 300;
+    font-size: 10pt;
+    color: grey;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+.CodeMirror{
+        font-family: "PT Mono";
+        font-size: 100%;
+}
+
+</style>
