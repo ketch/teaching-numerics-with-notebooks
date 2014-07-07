@@ -38,7 +38,7 @@ University of Science and Technology
 Time | Topic | Presenter
 -----|-------|----------
 1:00 | [Introduction and some examples of notebooks](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Introduction.ipynb) | David and Aron
-1:15 | Cloud notebook services ([SageMathCloud](https://cloud.sagemath.com), [Wakari](http://wakari.io), Google Drive/Chrome) | David
+1:15 | Cloud notebook services ([SageMathCloud](https://cloud.sagemath.com), [Wakari](http://wakari.io), [Google Drive/Chrome](https://conference.scipy.org/scipy2014/schedule/presentation/1720/)) | David
 1:30 | [Overview of IPython Notebook](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Introducing%20the%20IPython%20Notebook.ipynb) | Aron
 2:15 | Break |
 2:30 | [Visualization](http://nbviewer.ipython.org/urls/raw.github.com/ketch/teaching-numerics-with-notebooks/master/Plotting%20in%20the%20notebook.ipynb) | David
