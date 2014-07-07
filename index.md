@@ -47,4 +47,4 @@ Time | Topic | Presenter
 3:30 | Break |
 4:00 | Lessons from Software Carpentry | Aron
 4:15 | [Styling](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Styling_notebooks.ipynb) | David
-4:15 | Open Panel | 
+4:30 | Open Panel | 
