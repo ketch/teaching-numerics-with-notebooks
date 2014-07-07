@@ -47,6 +47,6 @@ Time | Topic | Presenter
 2:45 | [Widgets overview](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Exploring%20Numerics%20with%20IPython%20Widgets.ipynb) | Brian
 3:00 | Examples: [A concept](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Aliasing.ipynb), [a lesson](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Multigrid.ipynb), [a lab](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/finite_difference_lab.ipynb), [a course](http://www.davidketcheson.info/2014/05/28/hyperpython.html) | David
 3:30 | Break |
-4:00 | Lessons from Software Carpentry | Aron
+4:00 | Lessons from Software Carpentry: [General Advice](http://software-carpentry.org/v5/novice/teaching/01-general.html), [Operations](http://software-carpentry.org/bootcamps/operations.html), [Troubleshooting](https://github.com/swcarpentry/bc/wiki/Configuration-Problems-and-Solutions) | Aron
 4:15 | [Styling](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Styling_notebooks.ipynb) | David
 4:30 | Open Panel | 
