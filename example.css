@@ -21,14 +21,10 @@ div.cell { /* set cell width to about 80 chars */
 }
 
 div #notebook { /* centre the content */
-    background: #fff;
-    color: #333;
+    background: #fff; /* white background for content */
     width: 1000px;
     margin: auto;
     padding-left: 1em;
-    padding-right: 1em;
-    padding-top: 2ex;
-    overflow-x: auto;
 }
 
 #notebook li { /* More space between bullet points */
