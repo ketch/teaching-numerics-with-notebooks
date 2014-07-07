@@ -41,6 +41,7 @@ div.cell.code_cell {
     background-color: rgba(171,165,131,0.3); 
     border-radius: 10px; /* rounded borders */
     padding: 1em;
+    margin-top: 1em;
 }
 
 div.text_cell_render{
