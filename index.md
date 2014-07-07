@@ -25,8 +25,8 @@ and Development Center
 [Course Notes and Installation instructions on Etherpad](https://scipy2014.etherpad.mozilla.org/17)  
 [Anaconda Installer](http://continuum.io/downloads)  
 [IPython Documentation](http://ipython.org/documentation.html)  
-[IPython In Depth](https://github.com/ipython/ipython-in-depth)
-[SageMathCloud](https://cloud.sagemath.com)
+[IPython In Depth](https://github.com/ipython/ipython-in-depth)  
+[SageMathCloud](https://cloud.sagemath.com)  
 [Wakari](http://wakari.io)
 
 ## Notebooks in the Classroom
@@ -35,7 +35,7 @@ and Development Center
 [12 Steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)  
 [AeroPython](http://lorenabarba.com/blog/announcing-aeropython/)  
 
-Some of the example notebooks in this tutorial come from [AMCS 252](https://github.com/ketch/amcs252), a graduate course in numerical methods for PDEs at KAUST (see also [this repo](https://github.com/ketch/finite-difference-course).
+Some of the example notebooks in this tutorial come from [AMCS 252](https://github.com/ketch/amcs252), a graduate course in numerical methods for PDEs at KAUST (see also [this repo](https://github.com/ketch/finite-difference-course)).
 
 ## Agenda (Monday, July 7)
 
