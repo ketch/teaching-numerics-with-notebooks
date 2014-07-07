@@ -46,10 +46,7 @@ Time | Topic | Presenter
 1:30 | [Overview of IPython Notebook](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Introducing%20the%20IPython%20Notebook.ipynb) | Aron
 2:15 | Break |
 2:30 | [Visualization](http://nbviewer.ipython.org/urls/raw.github.com/ketch/teaching-numerics-with-notebooks/master/Plotting%20in%20the%20notebook.ipynb) | David
-2:45 |
-[Widgets overview](http://nbviewer.ipython.org/github/ipython/ipython-in-depth/blob/master/examples/Interactive%20Widgets/Using%20Interact.ipynb).
-[Another Example](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Exploring%20Numerics%20with%20IPython%20Widgets.ipynb)
-| Brian
+2:45 | [Widgets overview](http://nbviewer.ipython.org/github/ipython/ipython-in-depth/blob/master/examples/Interactive%20Widgets/Using%20Interact.ipynb).  [Another Example](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Exploring%20Numerics%20with%20IPython%20Widgets.ipynb) | Brian
 3:00 | Examples: [A concept](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Aliasing.ipynb), [a lesson](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/Multigrid.ipynb), [a lab](http://nbviewer.ipython.org/github/ketch/teaching-numerics-with-notebooks/blob/master/finite_difference_lab.ipynb), [a course](http://www.davidketcheson.info/2014/05/28/hyperpython.html) | David
 3:30 | Break |
 4:00 | Lessons from Software Carpentry: [General Advice](http://software-carpentry.org/v5/novice/teaching/01-general.html), [Operations](http://software-carpentry.org/bootcamps/operations.html), [Troubleshooting](https://github.com/swcarpentry/bc/wiki/Configuration-Problems-and-Solutions) | Aron
